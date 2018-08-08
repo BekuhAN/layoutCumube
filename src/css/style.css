@@ -541,7 +541,7 @@ html {
 
 @media (min-width: 1200px) {
   .container {
-    width: 1140px;
+    width: 1200px;
     max-width: 100%;
   }
 }
@@ -1824,6 +1824,12 @@ html {
 }
 
 /*==========  user style  ==========*/
+header {
+  background: url("../img/Mobile.png") #0ce49f;
+  height: 100vh;
+  padding-top: 30px;
+}
+
 /*==========  user style  ==========*/
 /*==========  Desktop First  ==========*/
 /*==========  Mobile First  ==========*/
